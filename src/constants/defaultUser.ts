@@ -20,7 +20,6 @@ export const defaultUser: User = {
     doneToBottom: false,
     enableGlow: true,
     simpleEmojiPicker: false,
-    enableReadAloud: "speechSynthesis" in window,
     voice: "Microsoft Mark - English (United States)::en-US",
     voiceVolume: 0.6,
     appBadge: false,

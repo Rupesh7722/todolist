@@ -78,7 +78,6 @@ export interface AppSettings {
   doneToBottom: boolean;
   enableGlow: boolean;
   simpleEmojiPicker: boolean;
-  enableReadAloud: boolean;
   appBadge: boolean;
   showProgressBar: boolean;
   /**
